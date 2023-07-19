@@ -1,2 +1,2 @@
-# Kitap-d-n-Verme-Sistemi
+# Kitap-Odunc-Verme-Sistemi
 İş analisti olarak bulunduğum gruptaki projem
